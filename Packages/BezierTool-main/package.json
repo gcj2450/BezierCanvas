@@ -1,0 +1,30 @@
+{
+  "name": "com.ishape.beziertool",
+  "version": "0.0.2",
+  "displayName": "iShape.BezierTool",
+  "description": "UI 2d Bezier Tool for Unity.",
+  "unity": "2022.2",
+  "keywords": [
+    "Bezier",
+    "2D",
+    "curve",
+    "edit"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "iShape",
+    "email": "nailxsharipov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iShapeUnity/BezierTool.git"
+  },
+  "dependencies": {
+    "com.ishape.mesh2d": "0.0.4",
+    "com.ishape.spline": "0.0.5",
+    "com.unity.mathematics": "1.2.6"
+  },
+  "assets": [
+    "Resources"
+  ]
+}

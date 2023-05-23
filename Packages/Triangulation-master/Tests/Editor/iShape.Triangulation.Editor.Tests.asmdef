@@ -1,0 +1,21 @@
+{
+    "name": "iShape.Triangulation.Editor.Tests",
+    "references": [
+        "iShape.Triangulation",
+        "iShape.Geometry"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}
